@@ -4,4 +4,4 @@
 - 🧠 Learning how to find more time.
 - 🤝 I’m looking for developers (I hope that will give me more time).
 - 💬 Ask me about Go, Solidity, DApps, Angular, NestJS or... about weather 🏜 I'll try to reply if I have free time.
-- 📫 Telegram: [@popovitsch](https://t.me/popovitsch)  | Twitter: [@RomanPopovitsch](https://twitter.com/RomanPopovitsch)
+- 📫 Telegram: [@popovitsch](https://t.me/romanow_eth)  | Twitter: [@RomanPopovitsch](https://twitter.com/romanow_eth)
